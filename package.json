@@ -20,7 +20,7 @@
     "watch:js": "parcel serve ./public/js/index.js --dist-dir ./public/js/bundled",
     "build:js": "parcel build ./public/js/index.js --dist-dir ./public/js --out-file bundle.js"
   },
-  "author": "Hpone Thit Htoo",
+  "author": "RAHUL KUMAR",
   "license": "ISC",
   "dependencies": {
     "axios": "^1.4.0",
